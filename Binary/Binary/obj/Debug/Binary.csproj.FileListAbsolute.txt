@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\LinhKhanh\Binary\Binary\bin\Debug\Binary.exe.config
+C:\Users\Admin\Documents\LinhKhanh\Binary\Binary\bin\Debug\Binary.exe
+C:\Users\Admin\Documents\LinhKhanh\Binary\Binary\bin\Debug\Binary.pdb
+C:\Users\Admin\Documents\LinhKhanh\Binary\Binary\obj\Debug\Binary.exe
+C:\Users\Admin\Documents\LinhKhanh\Binary\Binary\obj\Debug\Binary.pdb

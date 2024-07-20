@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\LinhKhanh\Nhân 2 số\Nhân 2 số\bin\Debug\Nhân 2 số.exe.config
+C:\Users\Admin\Documents\LinhKhanh\Nhân 2 số\Nhân 2 số\bin\Debug\Nhân 2 số.exe
+C:\Users\Admin\Documents\LinhKhanh\Nhân 2 số\Nhân 2 số\bin\Debug\Nhân 2 số.pdb
+C:\Users\Admin\Documents\LinhKhanh\Nhân 2 số\Nhân 2 số\obj\Debug\Nhân 2 số.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\LinhKhanh\Nhân 2 số\Nhân 2 số\obj\Debug\Nhân 2 số.exe
+C:\Users\Admin\Documents\LinhKhanh\Nhân 2 số\Nhân 2 số\obj\Debug\Nhân 2 số.pdb
